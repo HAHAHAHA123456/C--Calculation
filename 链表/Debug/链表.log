@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  链表.vcxproj -> C:\Users\Administrator\Downloads\课程实验\链表\Debug\链表.exe
